@@ -3,6 +3,7 @@ Give your new openFPGA cores some visual flare with some custom platform art by 
 
 Artwork for:
 GB/GBC/GBA/GameGear/NeoGeo/MasterSystem & SG-1000
+
 (more formats will be added as more cores are released)
 
 INSTALLATION:
