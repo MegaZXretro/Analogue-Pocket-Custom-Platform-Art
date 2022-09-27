@@ -13,14 +13,14 @@ NEW:
 Also includes for core art and menu text for:
 -------------------------------------------------
 
-**GB
-GBC
-GBA
-GameGear
-NeoGeo
-SG-1000
-MasterSystem/_Sega Mark III_
-SNES/_SuperFamicom_**
+**GB / 
+GBC / 
+GBA / 
+GameGear / 
+NeoGeo / 
+SG-1000 / 
+MasterSystem / _Sega Mark III_ / 
+SNES / _SuperFamicom_**
 
 **for all regions (PAL / USA / JAPAN)**
 
