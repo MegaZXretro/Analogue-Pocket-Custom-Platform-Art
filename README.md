@@ -1,7 +1,9 @@
 Give your new openFPGA cores some visual flare with some custom platform art by @MegaZXretro
 
+![312237425_626458885621942_769606940488095309_n](https://user-images.githubusercontent.com/112637864/197241353-ef9750d7-55c0-4e6d-a770-26026a8d799a.gif)
 
 V 4.0 Update:
+
 
 NEW: 
 
