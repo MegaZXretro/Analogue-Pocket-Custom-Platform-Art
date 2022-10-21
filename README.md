@@ -1,26 +1,27 @@
 Give your new openFPGA cores some visual flare with some custom platform art by @MegaZXretro
 
-V 3.0 Update:
+
+V 4.0 Update:
 
 NEW: 
 
-1. **MegaDrive** (PAL/Japan) and **GENESIS** (USA) core images
-2. **NES** (PAL/USA) and **Famicom** (Japan) core images
-3. Release dates for these new core Consoles are now correct for their regional release year.
-    e.g. **Famicom** _1983 (JPN)_ - **NES** _1985 (USA)_ - **NES** _1986 (PAL/EU)_
+1. **PC Engine** (PAL/Japan) // **TurboGrafx-16** (USA) core images
+2. The letter capitalization and spacing for certain systems has been corrected for those who NEED spaces.
 
 -------------------------------------------------
 Also includes for core art and menu text for:
 -------------------------------------------------
 
-**GB / 
-GBC / 
-GBA / 
-GameGear / 
-NeoGeo / 
-SG-1000 / 
-MasterSystem / _Sega Mark III_ / 
-SNES / _SuperFamicom_**
+**GB
+GBC
+GBA
+Game Gear
+Neo Geo
+SG-1000
+Master System / _Sega Mark III_
+Mega Drive / Genesis
+NES / Famicom
+SNES /_Super Famicom_**
 
 **for all regions (PAL / USA / JAPAN)**
 
@@ -30,11 +31,11 @@ SNES / _SuperFamicom_**
 
 **_Step 1_**: Simply download the images for your region once your cores are installed.
 
-**PAL/EU:** https://github.com/MegaZXretro/Analogue-Pocket-Custom-Platform-Art/releases/download/v3.0/PAL-EU.zip
+**PAL/EU:** https://github.com/MegaZXretro/Analogue-Pocket-Custom-Platform-Art/releases/download/v4.0/PAL-EU.zip
 
-**USA:** https://github.com/MegaZXretro/Analogue-Pocket-Custom-Platform-Art/releases/download/v3.0/USA.zip
+**USA:** https://github.com/MegaZXretro/Analogue-Pocket-Custom-Platform-Art/releases/download/v4.0/USA.zip
 
-**JPN:** https://github.com/MegaZXretro/Analogue-Pocket-Custom-Platform-Art/releases/download/v3.0/JAPAN.zip
+**JPN:** https://github.com/MegaZXretro/Analogue-Pocket-Custom-Platform-Art/releases/download/v4.0/JAPAN.zip
 
 **_Step 2:_** Extract folder, Drag the 'Platforms' Folder onto the Root of your Analogue Pocket SD card, let it overwrite the existing contents and that's it!
 
